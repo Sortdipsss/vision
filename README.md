@@ -30,6 +30,9 @@ It consists of the following -
 ### Cart
 It consists of the products added in the cart
 
+![Screenshot (129)](https://user-images.githubusercontent.com/112151926/222200633-a52482f6-db2a-4c46-9f47-efe47b810ba2.png)
+
+
 ### Contact
 It consists of - 
 1. Address
